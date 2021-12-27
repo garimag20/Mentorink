@@ -14,5 +14,3 @@ We built an intuitive web application which allows mentors and mentees to sign u
 
 ## Working
 We have developed different routes for the sign up and the login page with the help of API's using Flask and routing through ReactJS. The match making algorithm is based on the content based filtering. The database is present inside the models and all routes are present in the resources.
-
-##### The code ("Code") in this repository was created solely by the student teams during a coding competition hosted by JPMorgan Chase Bank, N.A. ("JPMC").						JPMC did not create or contribute to the development of the Code.  This Code is provided AS IS and JPMC makes no warranty of any kind, express or implied, as to the Code,						including but not limited to, merchantability, satisfactory quality, non-infringement, title or fitness for a particular purpose or use.
